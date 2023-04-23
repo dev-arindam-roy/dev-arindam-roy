@@ -1,34 +1,27 @@
-- 👋 Hi, I’m Arindam Roy
-- 👀 I’m interested in Laravel, Node Js, Vue Js, Angular Js, React Js, ES
-- 🌱 I’m currently working with US, Australia, South Africa, Japan, Singapore Client as Dedicated Resource
-- 💞️ I’m looking to collaborate with an Organization where I will share my concepts, ideas, experience to build crms and problem solving products
-- 📫 Connect me @Email: arindam.roy.developer@gmail.com / @WhatsApp: +91 9836395513
-
-<!---
-dev-arindam-roy/dev-arindam-roy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <div id="header" align="center">
-  <h2> Hi 👋 I'm Sudheer Jonna.</h2>
+  <h2> Hi 👋 I'm Arindam Roy</h2>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/sudheer-jonna-b9009142/">
+    <a href="[https://www.linkedin.com/in/sudheer-jonna-b9009142/](https://www.linkedin.com/in/arindam-roy-2014/)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/SudheerJonna">
+    <a href="[https://twitter.com/SudheerJonna](https://twitter.com/Arindam71961974)">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://www.sudheerjonna.com">
+    <a href="[https://www.sudheerjonna.com](https://laravelqueries.blogspot.com/)">
       <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Badge"/>
     </a>
   </div>
 </div>
 
 #### 💻 &nbsp; About Me :
-I am a Tech lead, Full Stack IT consultant, Author, Speaker & open source tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore.
-- I’m working as a Senior IT consultant and building large scale web applications.
-- Authoring and blogging about emerging technologies.
-- Share knowledge through meetups and twitter.
+I am Senior Full Stack Developer, 10+ Years of Experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kolkata, INDIA.
+- 👀 I’m working with: Laravel, Node Js, React Js, Vue Js, Angular Js, MongoDB, Javascript, EcmaScript, MySQL, REST API, Microservices and others more latest technologies
+
+- 🌱 Worked with multiple reputed clients all over the world - US, UK, Australia, South Africa, Japan, Singapore.
+- 🌱 Worked as Dedicated Resource as well
+
+- 💞️ I’m looking to collaborate with an Organization where I will share my concepts, ideas, experience to build crms and problem solving products
+- 📫 Connect me @Email: arindam.roy.developer@gmail.com / @WhatsApp: +91 9836395513
 
 #### :fire: My Stats :
 <!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudheerj&theme=dark&background=000000)](https://git.io/streak-stats) 

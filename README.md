@@ -14,8 +14,8 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-I am Senior Full Stack Developer, 10+ Years of Experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kolkata, INDIA.
-- 👀 I’m working with: Laravel, Node Js, React Js, Vue Js, Angular Js, MongoDB, Javascript, EcmaScript, MySQL, REST API, Microservices and others more latest technologies
+I am Senior Full Stack Developer, 12+ Years of Experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kolkata, INDIA.
+- 👀 I’m working with: Laravel, Node Js, React Js, Vue Js, Angular Js, MongoDB, Javascript, EcmaScript, MySQL, REST API, Microservices, AWS, Docker and others more latest technologies
 
 - 🌱 Worked with multiple reputed clients all over the world - US, UK, Australia, South Africa, Japan, Singapore.
 - 🌱 Worked as Dedicated Resource as well

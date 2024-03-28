@@ -20,10 +20,7 @@ I am Senior Full Stack Developer, 12+ Years of Experience <img src="https://medi
 - 🌱 Worked with multiple reputed clients all over the world - US, UK, Australia, South Africa, Japan, Singapore.
 - 🌱 Worked as Dedicated Resource as well
 - 💻 I am very interested to work as a Project Lead / Team Lead on any custom product development.
-- 💞️ I am expert to handle or manage the learge and complex database structure.
-
-- 💞️ I’m looking to collaborate with an Organization where I will share my concepts, ideas, experience to build crms and problem solving products
-- 📫 Connect me @Email: arindam.roy.developer@gmail.com / @WhatsApp: +91 9836395513
+- 💞️ I am expert to handle or manage the lerge and complex database structure.
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>

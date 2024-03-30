@@ -15,16 +15,21 @@
 
 #### 💻 &nbsp; About Me :
 I am Senior Full Stack Developer, 12+ Years of Experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kolkata, INDIA.
-- 👀 I’m working with: Laravel, Node Js, React Js, Vue Js, Angular Js, MongoDB, Javascript, EcmaScript, MySQL, REST API, Microservices, AWS, Docker and others more latest technologies
-
-- 🌱 Worked with multiple reputed clients all over the world - US, UK, Australia, South Africa, Japan, Singapore.
-- 🌱 Worked as Dedicated Resource as well
-- 💻 I am very interested to work as a Project Lead / Team Lead on any custom product development.
-- 💞️ I am expert to handle or manage the lerge and complex database structure.
+- 👀 I’m working on: Micro Services, Monorepo, Rest API, Laravel, React Js, Vue Js, Node Js, Angular Js, TypeScripts, MongoDB, MySQL, PostreSQL, Docker, AWS etc. and others more latest technologies
+- 💻 Application architecture design
+- 💻 Database architecture design
+- 💻 Projects analysis
+- 💻 Requirement analysis
+- 💻 Handling team
+- 💻 Integrate new scope/features
+- 💻 Quick bug/issue fix
+- 💻 Data flow logic and architecture setup
+- 💻 Dev, QA, Production deployment
+- 💻 Client relations with technical requirement analysis and implementation
+- 💻 I am expert to handle or manage the lerge and complex database structure.
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
